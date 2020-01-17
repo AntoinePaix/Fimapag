@@ -5,8 +5,8 @@
 #
 # *******FInd MAn PAGes*******
 #
-# Description : Fimapag is a bash script that allows you to
-# display the manual pages present in a deb package (debian/ubuntu/mint distros)
+# Description : Fimapag is a bash script that allows you to display
+# all man pages present in a deb package (debian/ubuntu/mint distros)
 
 PAQUET="${1}"
 
